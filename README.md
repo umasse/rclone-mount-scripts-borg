@@ -1,6 +1,7 @@
 # rclone-mount-scripts
 
 This repository contains two Bash scripts for managing the mounting and unmounting of remote drives using [Rclone](https://rclone.org/).
+Original purpose is to use them as pre and post scripts for [Borg](https://www.borgbackup.org/) backups using [Vorta](https://vorta.borgbase.com/).
 
 ## Scripts Overview
 
